@@ -1,10 +1,12 @@
 # DigitalBankingWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+<img width="1440" alt="Capture d’écran 2024-07-31 à 14 57 15" src="https://github.com/user-attachments/assets/35b510ad-fbf7-4a56-bc7d-d595fadf486a">
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img width="1440" alt="Capture d’écran 2024-07-31 à 14 57 45" src="https://github.com/user-attachments/assets/f4a98f93-a08f-425f-af22-c792d29c3052">
 
 ## Code scaffolding
 
